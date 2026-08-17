@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ThreadDispatcherHost\ThreadDispatcherHost.csproj" />
+  <Project Path="ThreadDispatcherTest\ThreadDispatcherTest.csproj" />
+  <Project Path="ThreadDispatcher\ThreadDispatcher.csproj" />
+</Solution>
